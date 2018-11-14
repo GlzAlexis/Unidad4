@@ -8,7 +8,7 @@ namespace ArbolitoA
 {
     class Despliegue
     {
-        Arbolito Arbol = new Arbolito();                    //Aqui se incertan los datos que son requeridos y donde tienen que estar para que
+        Arbolito Arbol = new Arbolito();                    //Aqui se insertan los datos que son requeridos y donde tienen que estar para que
                                                             //La construnccion del arbol este bien definida
         public void ArbolitoA()
         {
