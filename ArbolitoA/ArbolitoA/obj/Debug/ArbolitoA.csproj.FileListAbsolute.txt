@@ -1,0 +1,7 @@
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\ArbolitoA\ArbolitoA\bin\Debug\ArbolitoA.exe.config
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\ArbolitoA\ArbolitoA\bin\Debug\ArbolitoA.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\ArbolitoA\ArbolitoA\bin\Debug\ArbolitoA.pdb
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\ArbolitoA\ArbolitoA\obj\Debug\ArbolitoA.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\ArbolitoA\ArbolitoA\obj\Debug\ArbolitoA.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\ArbolitoA\ArbolitoA\obj\Debug\ArbolitoA.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\ArbolitoA\ArbolitoA\obj\Debug\ArbolitoA.pdb
