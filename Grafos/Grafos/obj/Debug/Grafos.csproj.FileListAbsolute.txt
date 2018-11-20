@@ -1,0 +1,7 @@
+C:\Users\Your fucking mom\source\repos\Grafos\Grafos\bin\Debug\Grafos.exe.config
+C:\Users\Your fucking mom\source\repos\Grafos\Grafos\bin\Debug\Grafos.exe
+C:\Users\Your fucking mom\source\repos\Grafos\Grafos\bin\Debug\Grafos.pdb
+C:\Users\Your fucking mom\source\repos\Grafos\Grafos\obj\Debug\Grafos.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\source\repos\Grafos\Grafos\obj\Debug\Grafos.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\source\repos\Grafos\Grafos\obj\Debug\Grafos.exe
+C:\Users\Your fucking mom\source\repos\Grafos\Grafos\obj\Debug\Grafos.pdb
