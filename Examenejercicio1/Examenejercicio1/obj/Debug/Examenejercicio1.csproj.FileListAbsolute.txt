@@ -1,0 +1,7 @@
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\Examenejercicio1\Examenejercicio1\bin\Debug\Examenejercicio1.exe.config
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\Examenejercicio1\Examenejercicio1\bin\Debug\Examenejercicio1.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\Examenejercicio1\Examenejercicio1\bin\Debug\Examenejercicio1.pdb
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\Examenejercicio1\Examenejercicio1\obj\Debug\Examenejercicio1.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\Examenejercicio1\Examenejercicio1\obj\Debug\Examenejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\Examenejercicio1\Examenejercicio1\obj\Debug\Examenejercicio1.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad4\Examenejercicio1\Examenejercicio1\obj\Debug\Examenejercicio1.pdb
